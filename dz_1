@@ -1,0 +1,14 @@
+   abstract class fail {}
+        class textfail extends fail {
+        }
+
+        class audiofail extends fail {
+        }
+
+        class scrrenfail extends fail {
+        }
+
+ class  Directory {
+    textfail a;
+    audiofail b;
+    screenfail c;
